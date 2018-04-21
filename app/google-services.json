@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605631270547",
+    "firebase_url": "https://iutchat-e6dd5.firebaseio.com",
+    "project_id": "iutchat-e6dd5",
+    "storage_bucket": "iutchat-e6dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605631270547:android:c9fa87baf4e2612a",
+        "android_client_info": {
+          "package_name": "com.example.jonib.iutchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605631270547-bea96t02q4njjdmvjh3rcshl4mmnimah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonib.iutchat",
+            "certificate_hash": "c3ed1d35533a989074b630606fb1f30d99e6beac"
+          }
+        },
+        {
+          "client_id": "605631270547-fm2r24n3oej2jhj2dlrr69acpuc953hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_YrKuauQvd9E90Fsmwsc0GTTSsLw4mQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605631270547-fm2r24n3oej2jhj2dlrr69acpuc953hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

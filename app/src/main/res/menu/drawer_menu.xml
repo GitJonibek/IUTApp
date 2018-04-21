@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_achievements"
+            android:title="@string/achievements"
+            android:icon="@drawable/ic_action_achievements"/>
+
+        <item
+            android:id="@+id/nav_photos"
+            android:title="@string/photos"
+            android:icon="@drawable/ic_action_photos"/>
+
+        <item
+            android:id="@+id/nav_videos"
+            android:title="@string/videos"
+            android:icon="@drawable/ic_action_videos"/>
+        <item
+            android:id="@+id/nav_eclass"
+            android:title="@string/eclass"
+            android:icon="@drawable/ic_action_eclass"/>
+        <item
+            android:id="@+id/nav_timetable"
+            android:title="@string/timetable"
+            android:icon="@drawable/ic_action_timetable"/>
+        <item
+            android:id="@+id/nav_inha_mail"
+            android:title="@string/inha_mail"
+            android:icon="@drawable/ic_action_inha_mail"/>
+        <item
+            android:id="@+id/nav_student_ins"
+            android:title="@string/student_ins"
+            android:icon="@drawable/ic_action_student_ins"/>
+        <item
+            android:id="@+id/nav_online_print"
+            android:title="@string/online_print"
+            android:icon="@drawable/ic_action_online_printing"/>
+        <item
+            android:id="@+id/nav_chat"
+            android:title="@string/chat"
+            android:icon="@drawable/ic_action_chat"/>
+        <item android:title="@string/_____________________________"/>
+        <item
+            android:id="@+id/nav_faq"
+            android:title="@string/faq"/>
+        <item
+            android:id="@+id/nav_apply"
+            android:title="@string/apply"/>
+    </group>
+</menu>

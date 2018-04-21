@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".StartActivity">
+
+    <TextView
+        android:textColor="@color/common_google_signin_btn_text_dark_pressed"
+        android:text="@string/welcome_to_iut_chat_service"
+        android:textSize="26sp"
+        android:layout_above="@+id/buttons_layout"
+        android:layout_marginBottom="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/buttons_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/start_have_account_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorAccent"
+            android:elevation="8dp"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp"
+            android:text="@string/already_have_account"
+            android:textColor="@color/common_google_signin_btn_text_dark_pressed"
+            tools:targetApi="lollipop" />
+
+        <Button
+            android:id="@+id/start_reg_btn"
+            android:layout_width="189dp"
+            android:layout_height="wrap_content"
+            android:background="@color/common_google_signin_btn_text_dark_pressed"
+            android:elevation="8dp"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp"
+            android:text="@string/need_a_new_account"
+            android:textColor="@color/colorPrimary"
+            tools:targetApi="lollipop" />
+
+    </LinearLayout>
+
+</RelativeLayout>

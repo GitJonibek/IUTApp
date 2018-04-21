@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">IUTChat</string>
+
+
+    <string name="tab1">HOME</string>
+    <string name="tab2">EVENTS</string>
+    <string name="tab3">NOTICE BOARD</string>
+    <string name="tab4">MAP</string>
+    <string name="tab5">ABOUT IUT</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appbar_scrolling_view_behavior">scroll</string>
+    <string name="inha_university_in_tashkent">Inha University in Tashkent</string>
+    <string name="achievements">Achievements</string>
+    <string name="photos">Photos</string>
+    <string name="videos">Videos</string>
+    <string name="eclass">E-Class</string>
+    <string name="timetable">Timetable</string>
+    <string name="inha_mail">INHA Mail</string>
+    <string name="student_ins">Student INS</string>
+    <string name="online_print">Online printing</string>
+    <string name="chat">IUT chat</string>
+    <string name="faq">FAQ</string>
+    <string name="apply">How to apply?</string>
+    <string name="_____________________________">______________________________________</string>
+
+
+    <string name="need_a_new_account">need a new account?</string>
+    <string name="welcome_to_iut_chat_service">Welcome to IUT Chat service</string>
+    <string name="email">Email</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="create_account">create account</string>
+    <string name="log_out">Log Out</string>
+    <string name="accountsettings">AccountSettings</string>
+    <string name="all_users">All Users</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="already_have_account">already have account</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="login">login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="display_name">Display Name</string>
+    <string name="hi_there_i_m_using_iut_chat_service">Hi there, I\'m using IUT Chat service</string>
+    <string name="change_image">change image</string>
+    <string name="change_status">change status</string>
+    <string name="your_status">Your status</string>
+    <string name="save_changes">save changes</string>
+    <string name="status">status</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">send friend request</string>
+    <string name="decline_friend">decline friend request</string>
+</resources>
